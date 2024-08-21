@@ -1,8 +1,4 @@
-# Wurst Client v7
-
-## Downloads (for users)
-
-[https://www.wurstclient.net/download/](https://www.wurstclient.net/download/?utm_source=GitHub&utm_medium=Wurst7&utm_campaign=README.md&utm_content=Downloads+%28for+users%29)
+# Wurst Client v7 without hax. dont download. it isn't finished
 
 ## Setup (for developers)
 
